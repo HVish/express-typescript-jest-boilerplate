@@ -1,7 +1,7 @@
 {
   "name": "auth-service",
   "version": "0.1.0",
-  "description": "Auth micro-service with OAuth 2.0 architecture",
+  "description": "Boilerplate code for node.js server using express.js, typescript and jest test runner",
   "main": "dist/index.js",
   "author": "Vishnu Singh <vishnusingh1729@gmail.com>",
   "license": "MIT",
